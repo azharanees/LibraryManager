@@ -48,7 +48,7 @@ public class UnitTest {
                 });
             });
         } finally {
-            actorSystem.terminate();
+        //    actorSystem.terminate();
         }
     }
 

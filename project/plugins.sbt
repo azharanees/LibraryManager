@@ -6,5 +6,5 @@ addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.6.20")
 // plugin if you prefer not to have this feature, or disable on a per project
   // basis using disablePlugins(PlayEnhancer) in your build.sbt
   addSbtPlugin("com.typesafe.sbt" % "sbt-play-enhancer" % "1.2.2")
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-RC12")
+//addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-RC12")
 addSbtPlugin("com.typesafe.sbt" % "sbt-play-ebean" % "4.0.6")
